@@ -32,7 +32,7 @@ Here is a word cloud image that allows us to spot the high-frequency terms from 
 
 However, it was not possible to render for KR-JP based tweets because the website does not support fonts for CJK characters.
 
-![kr-jp-words](/assets/image/kr-jp-word.png)
+![kr-jp-words](/assets/image/kr-jp-words.png)
 
 ---
 
